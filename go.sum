@@ -1,0 +1,4 @@
+github.com/Luxurioust/excelize v1.4.0 h1:L+YjgFhx5ja6w83i7+gzLRecyBxUcbK6hEWaVXT2GM8=
+github.com/Luxurioust/excelize v1.4.0/go.mod h1:er5iNcSmVmDJ+OLia+8vCWjgNgH2JCjeZab5JiKBoSY=
+github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826 h1:RWengNIwukTxcDr9M+97sNutRR1RKhG96O6jWumTTnw=
+github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826/go.mod h1:TaXosZuwdSHYgviHp1DAtfrULt5eUgsSMsZf+YrPgl8=
